@@ -1,0 +1,8 @@
+                    verifyElementPresentAndClick(HipiLoginPage.objhipicreatebutton, "Create");
+	            verifyElementPresentAndClick(HipiLoginPage.objrecordbutton, "RecordButton");
+	            verifyElementPresentAndClick(HipiLoginPage.objaddbutton, "addbutton");
+	            verifyElementPresentAndClick(HipiLoginPage.objimag1, "img");
+	            verifyElementPresentAndClick(HipiLoginPage.objimag2, "img2");
+	            verifyElementPresentAndClick(HipiLoginPage.objimag3, "img3");
+	            verifyElementPresentAndClick(HipiLoginPage.objimag4, "img4");
+	            verifyElementPresentAndClick(HipiLoginPage.objaddmediabutton, "add media");
